@@ -1,0 +1,3 @@
+git add .
+git commit -m "Подготовка для PythonAnywhere"
+git push
